@@ -4,5 +4,7 @@ This project focuses on detecting security vulnerabilities in source code using 
 
 🧑‍💻 Contributors
 Anagha Murgesh Hiremath
+
 Smita, Singha Roy
+
 Aritra, Paul
